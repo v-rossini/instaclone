@@ -1,5 +1,5 @@
 # instaclone
 
-backend from the instaclone
+backend for the instaclone
 
 node_modules required
